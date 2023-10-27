@@ -9,6 +9,6 @@ This repository contains my project, which I did during my Data Science internsh
 
 **PHASE 2** (To be uploaded by or before 5th November)
   
-  Task 3: Analyze the netflix dataset and create graphs using seaborn and matplotlib.
+  Task 1: Analyze the netflix dataset and create graphs using seaborn and matplotlib.
   
-  Task 4: Train a simple linear regressing model on dataset and predict the output.
+  Task 2: Train a simple linear regressing model on dataset and predict the output.
